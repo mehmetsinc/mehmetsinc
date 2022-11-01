@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on [Tarik Cinar](https://github.com/TarikCinar)
 
 - 📫 How to reach me **mehmet.sinc@takimca.com**
-&nbsp;               **mehmet.sinc@trendyol.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
