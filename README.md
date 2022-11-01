@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">A passionate System Administrator from Turkey.</h3>
+<h3 align="center">A passionate System Administrator & Developer from Turkey.</h3>
 
-- 🔭 I’m currently working on [Trendyol](trendyol.com)
+- 🔭 I’m currently working on [Takımca](takimca.com)
 
 - 👯 I’m looking to collaborate on [Tarik Cinar](https://github.com/TarikCinar)
 
