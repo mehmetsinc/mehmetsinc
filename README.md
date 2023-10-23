@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Takımca](takimca.com)
 
-- 👯 I’m looking to collaborate on [Tarik Cinar](https://github.com/TarikCinar)
+- 👯 I’m looking to collaborate on [Takımca Corp ](https://www.linkedin.com/company/takimca)
 
 - 📫 How to reach me **mehmet.sinc@takimca.com**
 
