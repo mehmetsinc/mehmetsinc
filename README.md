@@ -91,14 +91,6 @@
         <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" 
              alt="Puppet" width="40" height="40" /> 
     </a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
-             alt="Kubernetes" width="40" height="40" /> 
-    </a>
-    <a href="https://docs.docker.com/engine/swarm/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" 
-             alt="Docker Swarm" width="40" height="40" /> 
-    </a>
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" 
              alt="Jenkins" width="40" height="40" /> 
