@@ -60,6 +60,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" 
              alt="Debian" width="40" height="40" /> 
     </a>
+    <a href="https://www.centos.org//" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" 
+             alt="Centos" width="40" height="40" /> 
+    </a>
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" 
              alt="Kali Linux" width="40" height="40" /> 
